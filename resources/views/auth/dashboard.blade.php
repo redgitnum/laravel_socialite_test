@@ -1,0 +1,11 @@
+<div>
+    Dashboard
+    <div>
+        userdata: 
+        <div>
+            @php
+                dd($user);
+            @endphp
+        </div>
+    </div>
+</div>
